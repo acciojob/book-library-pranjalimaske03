@@ -10,7 +10,8 @@ h1{
 	box-shadow:10px;
 }
 .book{
-	background-color:
+	background-color: #ffffff; /* Add a background color for the .book class */
+  padding: 10px; 
 }
 .price{
 	background-color:rgb(46,204,113);
